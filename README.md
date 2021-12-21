@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pastel-de-mamao
-- 👀 I’m interested in Python and php
+- 👀 I’m interested in Python and typescript
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me in pasteldemamao@gmail.com
